@@ -21,26 +21,4 @@ Com o objetivo de deixar pelo menos um pedacinho dele vivo, e também matar um p
 
 ## :file_folder: Arquitetura do Projeto
 
-   📁 sorte-de-hoje  
-   |  
-   |    -  📁 src    
-   |            |- 📄 app.js
-   | 
-   |        |
-   |        |- 📁 database  
-   |                |- 📄 mongooseConnect.js  
-   |
-   |        |- 📁 controllers  
-   |                |- 📄 sorteDeHojeController.js  
-   |  
-   |        |- 📁 models  
-   |                |- 📄 sorteDeHoje.js  
-   |  
-   |        |- 📁 routes  
-   |                |- 📄 sorteDeHojeRoutes.js      
-   |
-   |- 📄 .env
-   |- 📄 .gitignore  
-   |- 📄 package-lock.json  
-   |- 📄 pakage.json
-   |- 📄 server.js
+ 
