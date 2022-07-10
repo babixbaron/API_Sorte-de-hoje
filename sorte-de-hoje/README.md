@@ -12,16 +12,10 @@ Com o objetivo de deixar pelo menos um pedacinho dele vivo, e também matar um p
 
 | Ferramenta | Descrição |
 | --- | --- |
-| `javascript` | Linguagem de programação |
+| `javascript` | Linguagem de programação utilizada |
 | `nodejs` | Ambiente de execução do javascript|
-| `express` | Framework NodeJS |
-| `dotenv` | Dependência para proteger dados sensíveis do projeto|
-| `mongoose` | Dependência que interage com o MongoDB para a conexão da database, criação do model e das collections|
-| `nodemon` | Dependência que observa as atualizações realizadas nos documentos para rodar o servidor automaticamente|
-| `npm` | Gerenciador de pacotes|
 | `MongoDb` | Banco de dado não relacional orietado a documentos|
-| `MongoDb Compass ou Mongo Atlas` | Interface gráfica para verificar se os dados foram persistidos|
-| `Postman` | Interface gráfica para realizar os testes|
+| `Postman` | Interface para realizar os testes|
 
  <br>
 
