@@ -23,31 +23,24 @@ Com o objetivo de deixar pelo menos um pedacinho dele vivo, e também matar um p
 
    📁 sorte-de-hoje  
    |  
-   |-  📁 src    
-   |    |- 📄 app.js
+   |    -  📁 src    
+   |            |- 📄 app.js
    | 
-   |    |
-   |    |- 📁 database  
-   |         |- 📄 mongooseConnect.js  
+   |        |
+   |        |- 📁 database  
+   |                |- 📄 mongooseConnect.js  
    |
-   |    |- 📁 controllers  
-   |         |- 📄 sorteDeHojeController.js  
+   |        |- 📁 controllers  
+   |                |- 📄 sorteDeHojeController.js  
    |  
-   |    |- 📁 models  
-   |         |- 📄 sorteDeHoje.js  
+   |        |- 📁 models  
+   |                |- 📄 sorteDeHoje.js  
    |  
-   |    |- 📁 routes  
-   |         |- 📄 sorteDeHojeRoutes.js      
+   |        |- 📁 routes  
+   |                |- 📄 sorteDeHojeRoutes.js      
    |
    |- 📄 .env
    |- 📄 .gitignore  
    |- 📄 package-lock.json  
    |- 📄 pakage.json
    |- 📄 server.js
-
-
-
-
-
-
-
