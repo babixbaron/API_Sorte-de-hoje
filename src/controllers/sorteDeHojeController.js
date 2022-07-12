@@ -18,6 +18,18 @@ const createSorte = async (req, res) => {
     }
 }
 
+const findAllSortes = async (req, res) => {
+    try {
+        const allSorte = await SorteDeHojeModel.find()
+        res.status(200).json(allSorte)
+
+    } catch (error) {
+        console.error(error)
+        res.status(500).json({ message: error.message })
+    }
+}
+
 module.exports = {
-    createSorte
+    createSorte,
+    findAllSortes
 }
