@@ -29,7 +29,19 @@ const findAllSortes = async (req, res) => {
     }
 }
 
+const findSorteById = async (req, res) => {
+    try {
+        const findSorte = await SorteDeHojeModel.findById(req.params.id)
+        res.status(200).json(findSorte)
+
+    } catch (error) {
+        console.error(error)
+        res.status(500).json({ message: error.message })
+    }
+}
+
 module.exports = {
     createSorte,
-    findAllSortes
+    findAllSortes,
+    findSorteById
 }
