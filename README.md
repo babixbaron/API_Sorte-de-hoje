@@ -1,5 +1,7 @@
 # SORTE DE HOJE
 
+![image](http://www.scrapsweb.com.br/arquivos/Diversas/scrapsweb_diversas-663177.gif)
+
 ## :rainbow: Prévia
 
 Me chamo Bárbara Baron, tenho 29 anos e estou finalizando meu curso de desenvolvimento back-end nas stacks de NodeJs com JavaScript. Como uma boa cria dos anos 90 tive o prazer de conhecer e usufruir de uma das melhores redes sociais já inventadas - o Orkut. Infelizmente nosso querido amigo não durou para sempre e foi erradicado da internet. 
@@ -34,4 +36,4 @@ Nesta API foram criadas 5 rotas (CRUD) que permitem:
 
 :purple_circle: :purple_circle: Para quem não conheceu o Orkut, espero que aproveitem as sabedorias diárias, e para quem já conhece, que mate pelo menos um pouco da saudade desse tempo que não volta mais. :purple_circle: :purple_circle:
 
-![image](http://www.scrapsweb.com.br/arquivos/Diversas/scrapsweb_diversas-663177.gif)
+![image] (https://recadoslindos.com.br/wp-content/uploads/2017/04/obrigada1.gif)
