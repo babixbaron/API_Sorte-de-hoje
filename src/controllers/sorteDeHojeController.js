@@ -40,8 +40,24 @@ const findSorteById = async (req, res) => {
     }
 }
 
+const updateSorte = async (req, res) => {
+    try {
+        const {text} = req.body
+        const updatedSorte = await SorteDeHojeModel.findByIdAndUpdate(req.params.id, {
+            text
+        })
+
+        res.status(200).json(updatedSorte)
+
+    } catch (error) {
+        console.error(error)
+        res.status(500).json({ message : error.message })
+    }
+}
+
 module.exports = {
     createSorte,
     findAllSortes,
-    findSorteById
+    findSorteById,
+    updateSorte
 }
