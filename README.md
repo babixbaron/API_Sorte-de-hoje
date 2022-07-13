@@ -32,4 +32,6 @@ Nesta API foram criadas 5 rotas (CRUD) que permitem:
 <br>
 <br>
 
-:purple_circle: :purple_circle: Para quem não conheceu o Orkut, espero que aproveitem as sabedorias diárias, e para quem já conhece, que mate pelo menos um pouco a saudade desse tempo que não volta mais. :purple_circle: :purple_circle:
+:purple_circle: :purple_circle: Para quem não conheceu o Orkut, espero que aproveitem as sabedorias diárias, e para quem já conhece, que mate pelo menos um pouco da saudade desse tempo que não volta mais. :purple_circle: :purple_circle:
+
+![image](http://www.scrapsweb.com.br/arquivos/Diversas/scrapsweb_diversas-663177.gif)
