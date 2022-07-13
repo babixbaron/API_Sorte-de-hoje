@@ -1,6 +1,8 @@
 # SORTE DE HOJE
 
-![image](http://www.scrapsweb.com.br/arquivos/Diversas/scrapsweb_diversas-663177.gif)
+<p align="center">
+  <img src="http://www.scrapsweb.com.br/arquivos/Diversas/scrapsweb_diversas-663177.gif" alt="Orkut gif"/>
+</p>
 
 ## :rainbow: Prévia
 
@@ -36,4 +38,8 @@ Nesta API foram criadas 5 rotas (CRUD) que permitem:
 
 :purple_circle: :purple_circle: Para quem não conheceu o Orkut, espero que aproveitem as sabedorias diárias, e para quem já conhece, que mate pelo menos um pouco da saudade desse tempo que não volta mais. :purple_circle: :purple_circle:
 
-![image] (https://recadoslindos.com.br/wp-content/uploads/2017/04/obrigada1.gif)
+<br>
+
+<p align="center">
+  <img src="https://recadoslindos.com.br/wp-content/uploads/2017/04/obrigada1.gif" alt="Orkut gif2"/>
+</p>
