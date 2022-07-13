@@ -55,9 +55,23 @@ const updateSorte = async (req, res) => {
     }
 }
 
+const deleteSorte = async (req, res) => {
+    try {
+        const { id } = req.params   
+        await SorteDeHojeModel.findByIdAndDelete(req.params.id)
+        const message = `Sorte de hoje com id: ${id} removida com sucesso.`
+        res.status(200).json(message)
+
+    } catch (error) {
+        console.error(error)
+        res.status(500).json({ message: error.message })
+    }
+}
+
 module.exports = {
     createSorte,
     findAllSortes,
     findSorteById,
-    updateSorte
+    updateSorte,
+    deleteSorte
 }
