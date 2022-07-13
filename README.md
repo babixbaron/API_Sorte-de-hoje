@@ -25,7 +25,7 @@ Com o objetivo de deixar pelo menos um pedacinho dele vivo, e também matar um p
     |
     |- 📁 src
     |   |
-    |   |- 📄 app.js    
+        |- 📄 app.js    
     |   |- 📁 database
     |       |- 📄 mongooseConnect.js
     |
