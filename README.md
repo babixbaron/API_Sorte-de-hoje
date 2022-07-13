@@ -19,7 +19,13 @@ Com o objetivo de deixar pelo menos um pedacinho dele vivo, e também matar um p
 
  <br>
 
+## :purple_circle: Projeto
 
+Nesta API foram criadas 5 rotas (CRUD) que permitem: 
 
+- [x] listar todas as sortes de hoje (GET)
+- [x] listar uma sorte de hoje por id (GET)
+- [x] adicionar um nova sorte de hoje (POST)
+- [x] alterar informações de uma sorte de hoje (PATCH)
+- [x] deletar uma sorte de hoje (DELETE)
 
- 
