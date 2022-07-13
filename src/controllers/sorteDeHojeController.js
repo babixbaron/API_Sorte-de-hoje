@@ -1,4 +1,4 @@
-const SorteDeHojeModel = require('../models/sorteDeHoje')
+const SorteDeHojeModel = require('../models/sorteDeHojeModel.js')
 
 const createSorte = async (req, res) => {
     try {
