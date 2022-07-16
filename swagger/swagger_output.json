@@ -11,7 +11,7 @@
     "http"
   ],
   "paths": {
-    "/sorte": {
+    "/sorte/post": {
       "post": {
         "description": "",
         "parameters": [
@@ -71,7 +71,9 @@
             "description": "Internal Server Error"
           }
         }
-      },
+      }
+    },
+    "/sorte/update/{id}": {
       "patch": {
         "description": "",
         "parameters": [
@@ -102,7 +104,9 @@
             "description": "Internal Server Error"
           }
         }
-      },
+      }
+    },
+    "/sorte/remove/{id}": {
       "delete": {
         "description": "",
         "parameters": [
