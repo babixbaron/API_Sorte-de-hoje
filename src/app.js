@@ -5,6 +5,7 @@ const mongoose = require('./database/mongooseConnect')
 const sorteDeHojeRoutes = require('./routes/sorteDeHojeRoutes')
 const swaggerUi = require('swagger-ui-express')
 const swaggerFile = require('../swagger/swagger_output.json')
+const index = require('./routes/index')
 
 const app = express()
 
@@ -14,7 +15,7 @@ app.use(cors())
 mongoose.connect()
 
 app.use(sorteDeHojeRoutes)
-
+app.use('/', index)
 
 app.use('/minha-rota-de-documentacao', swaggerUi.serve, swaggerUi.setup(swaggerFile))
 
