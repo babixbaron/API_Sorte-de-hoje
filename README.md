@@ -10,6 +10,10 @@ Me chamo Bárbara Baron, tenho 29 anos e estou finalizando meu curso de desenvol
 
 Com o objetivo de deixar pelo menos um pedacinho dele vivo, e também matar um pouco da saudade, desenvolvi esta API de Sorte de Hoje, resgatando algumas das frases motivacionais que o Orkut nos agraciava diariamente.
 
+Acesse o link do projeto [aqui](https://sorte-de-hoje.herokuapp.com/)
+
+A documentação você encontra nesse [link](https://sorte-de-hoje.herokuapp.com/minha-rota-de-documentacao/)
+
 <br>
 
 ## :wrench: Ferramentas Utilizadas
