@@ -1,10 +1,10 @@
-# SORTE DE HOJE
+# SORTE DE HOJE :four_leaf_clover:	
 
 <p align="center">
   <img src="http://www.scrapsweb.com.br/arquivos/Diversas/scrapsweb_diversas-663177.gif" alt="Orkut gif"/>
 </p>
 
-## :rainbow: Prévia
+## Prévia :rainbow:
 
 Me chamo Bárbara Baron, tenho 29 anos e estou finalizando meu curso de desenvolvimento back-end nas stacks de NodeJs com JavaScript. Como uma boa cria dos anos 90 tive o prazer de conhecer e usufruir de uma das melhores redes sociais já inventadas - o Orkut. Infelizmente nosso querido amigo não durou para sempre e foi erradicado da internet. 
 
@@ -16,7 +16,7 @@ A documentação você encontra nesse [link](https://sorte-de-hoje.herokuapp.com
 
 <br>
 
-## :wrench: Ferramentas Utilizadas
+## Ferramentas Utilizadas :wrench:
 
 | Ferramenta | Descrição |
 | --- | --- |
@@ -27,7 +27,7 @@ A documentação você encontra nesse [link](https://sorte-de-hoje.herokuapp.com
 
  <br>
 
-## :bookmark: Projeto
+## Projeto :bookmark: 
 
 Nesta API foram criadas 5 rotas (CRUD) que permitem: 
 
@@ -47,3 +47,16 @@ Nesta API foram criadas 5 rotas (CRUD) que permitem:
 <p align="center">
   <img src="https://recadoslindos.com.br/wp-content/uploads/2017/04/obrigada1.gif" alt="Orkut gif2"/>
 </p>
+
+<br>
+<br>
+
+## Futuras Implementações :alarm_clock:	
+
+- Desenvolver o front da aplicação
+- Criar um botão que realize o sorteio de uma sorte de hoje para o usuário
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido por Bárbara Costa Baron </p>
