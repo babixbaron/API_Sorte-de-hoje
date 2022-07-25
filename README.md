@@ -42,11 +42,6 @@ Nesta API foram criadas 5 rotas (CRUD) que permitem:
 
 :purple_circle: :purple_circle: Para quem não conheceu o Orkut, espero que aproveitem as sabedorias diárias, e para quem já conhece, que mate pelo menos um pouco da saudade desse tempo que não volta mais. :purple_circle: :purple_circle:
 
-<br>
-
-<p align="center">
-  <img src="https://recadoslindos.com.br/wp-content/uploads/2017/04/obrigada1.gif" alt="Orkut gif2"/>
-</p>
 
 <br>
 <br>
@@ -57,6 +52,12 @@ Nesta API foram criadas 5 rotas (CRUD) que permitem:
 - Criar um botão que realize o sorteio de uma sorte de hoje para o usuário
 
 <br>
+<br>
+
+<p align="center">
+  <img src="https://recadoslindos.com.br/wp-content/uploads/2017/04/obrigada1.gif" alt="Orkut gif2"/>
+</p>
+
 <br>
 
 <p align="center"> Desenvolvido por Bárbara Costa Baron </p>
